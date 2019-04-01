@@ -15,7 +15,7 @@ $ php zakat.php
 ```
 
 ## License
-**KALKULATOR ZAKAT** is licensed under the MIT. Take a look at the [LICENSE](https://github.com/Hiroyuki48/BitslerBOT/blob/master/LICENSE) for more information.
+**KALKULATOR ZAKAT** is licensed under the MIT. Take a look at the [LICENSE](https://github.com/Hiroyuki48/KALKULATOR-ZAKAT/blob/master/LICENSE) for more information.
 
 ## Version
 **Current version is 1.0** (Beta) and still development.
