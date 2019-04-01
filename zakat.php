@@ -1,4 +1,8 @@
 <?php
+/*
+About : KALKULATOR ZAKAT
+Author : github.com/FikriMaulana85
+*/
 echo "-= KALKULATOR ZAKAT =-\n";
 echo "Silahkan Pilih Zakat\n";
 echo "1.Emas\n2.Uang\n3.Ternak\n4.Pertanian\n";
